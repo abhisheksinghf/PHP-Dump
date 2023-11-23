@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+</head>
+<style>
+    form{
+        margin: auto;
+        width: 50%;
+        left: 10%;
+        top: 10%;
+        background-color: thistle;
+        align-items: center;
+        text-align: center;
+        border: 2px solid grey;
+        position: absolute;
+        border-radius: 3px;
+    }
+</style>
+<body>
+    <form action="process.php" method="POST">
+        <h2>Sign Up</h2>
+        Enter Username:<input type="text" name="uname"/><br><br>
+        Enter Phone-No:<input type="number" name="pno" size="11"/><br/><br>
+        Enter Email:<input type="mail" name="em"/><br/><br>
+        <br>
+        <input type="submit" value="Sign Up"/>&nbsp;&nbsp;&nbsp;
+        <input type="reset" value="Reset"/><br>
+
+    </form>
+</body>
+</html>

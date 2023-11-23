@@ -1,0 +1,44 @@
+#para1{
+    position: absolute;
+    text-align:center;
+    color: brown;
+    background-color: goldenrod;
+    width: 40%;
+    font-size: 40px;
+    top: 100px;
+    left: 100px;
+    border: 3px solid brown;
+}
+#para2{
+    position: absolute;
+    text-align:center;
+    color: red;
+    background-color: lime;
+    width: 40%;
+    font-size: 40px;
+    top: 120px;
+    left: 120px;
+    border: 3px solid red;
+}
+#para3{
+    position: absolute;
+    text-align:center;
+    color: white;
+    background-color: purple;
+    width: 40%;
+    font-size: 40px;
+    top: 140px;
+    left: 140px;
+    border: 3px solid blue;
+}
+#para4{
+    position: absolute;
+    text-align:center;
+    color: orange;
+    background-color: skyblue;
+    width: 40%;
+    font-size: 40px;
+    top: 160px;
+    left: 160px;
+    border: 3px solid orange;
+}

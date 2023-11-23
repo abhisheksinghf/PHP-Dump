@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.css" type="text/css"?>
+<patients>
+    <!-- patient-1 -->
+    <patient>
+        <name>
+            <fname>da</fname>
+            <mname>gdsh</mname>
+            <lname>dad</lname>
+        </name>
+        <ssn>3623728</ssn>
+        <age>32</age>
+        <roomno>2</roomno>
+        <insurance type="primary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <insurance type="secondary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <medproblem>Covid</medproblem>
+        <medallergy>Nil</medallergy>
+    </patient>
+        <patient>
+        <name>
+            <fname>da</fname>
+            <mname>gdsh</mname>
+            <lname>dad</lname>
+        </name>
+        <ssn>3623728</ssn>
+        <age>32</age>
+        <roomno>2</roomno>
+        <insurance type="primary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <insurance type="secondary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <medproblem>Covid</medproblem>
+        <medallergy>Nil</medallergy>
+    </patient>
+        <patient>
+        <name>
+            <fname>da</fname>
+            <mname>gdsh</mname>
+            <lname>dad</lname>
+        </name>
+        <ssn>3623728</ssn>
+        <age>32</age>
+        <roomno>2</roomno>
+        <insurance type="primary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <insurance type="secondary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <medproblem>Covid</medproblem>
+        <medallergy>Nil</medallergy>
+    </patient>
+        <patient>
+        <name>
+            <fname>da</fname>
+            <mname>gdsh</mname>
+            <lname>dad</lname>
+        </name>
+        <ssn>3623728</ssn>
+        <age>32</age>
+        <roomno>2</roomno>
+        <insurance type="primary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <insurance type="secondary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <medproblem>Covid</medproblem>
+        <medallergy>Nil</medallergy>
+    </patient>
+        <patient>
+        <name>
+            <fname>da</fname>
+            <mname>gdsh</mname>
+            <lname>dad</lname>
+        </name>
+        <ssn>3623728</ssn>
+        <age>32</age>
+        <roomno>2</roomno>
+        <insurance type="primary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <insurance type="secondary">
+            <id>372</id>
+            <gn>5</gn>
+            <address>Gadag</address>
+        </insurance>
+        <medproblem>Covid</medproblem>
+        <medallergy>Nil</medallergy>
+    </patient>
+    
+</patients>

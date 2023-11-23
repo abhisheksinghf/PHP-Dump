@@ -1,0 +1,13 @@
+.container{
+    background-color: palevioletred;
+    color: red;
+    font-family: cursive;
+    text-align: center;
+    margin: auto;
+    
+}
+p{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}

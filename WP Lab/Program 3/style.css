@@ -1,0 +1,47 @@
+patients{
+    border: 2px solid orange;
+    color: thistle;
+}
+patient{
+    display: block;
+    border: 3px solid red;
+    margin: 3%;
+}
+name{
+    display: block;
+    color: blue;
+    margin: 3%;
+}
+age{
+    display: block;
+    color: darkslategrey;
+    margin: 3%;
+
+
+}    
+ssn{
+    display: block;
+    color: green;
+    margin: 3%;
+
+}
+roomno{
+    display: block;
+    color: purple;
+    margin: 3%;
+}
+insurance{
+    display: block;
+    color: gold;
+    margin: 3%;
+}
+medproblem{
+    display: block;
+    color: indianred;
+    margin: 3%;
+}
+medallergy{
+    display: block;
+    color: darkcyan;
+    margin: 3%;
+}
